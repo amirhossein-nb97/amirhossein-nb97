@@ -10,7 +10,7 @@ Currently working on a large-scale data platform processing **20M+ files and 10+
 
 `Python` `SQL` `PostgreSQL` `MongoDB` `Redis` `MinIO`
 `Airflow` `Kafka` `Celery` `FastAPI` `SQLAlchemy`
-`Docker` `Linux` `Nginx` `Git`
+`Docker` `Linux`  `Git`
 
 ### What I'm Building
 
