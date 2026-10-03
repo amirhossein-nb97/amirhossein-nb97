@@ -38,3 +38,6 @@ Production-style workflow orchestration with scheduling, retries, API triggers a
 ### Connect
 
 [LinkedIn](https://www.linkedin.com/in/amir-hossein-nazm-bojnordi/) · [Email](mailto:amirhosseinb97@gmail.com)
+
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6655c2fdb998f3b3c7995018?variant=dark&roadmaps=%2Cdata-engineer" alt="roadmap.sh"/></a>
